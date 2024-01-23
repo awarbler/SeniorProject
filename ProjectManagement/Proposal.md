@@ -25,6 +25,10 @@
 - [Section 3: Timeline](#section-3-timeline)
   - [Plan Tasks and Schedule](#plan-tasks-and-schedule)
 - [Course Deliverables](#course-deliverables)
+- [Section 4: Team](#section-4-team)
+- [Section 5: Budget](#section-5-budget)
+  - [Budget Monitoring](#budget-monitoring)
+  - [Hardware BOM (Bill of Materials)](#hardware-bom-bill-of-materials)
 - [Section 6: Risks](#section-6-risks)
 - [Section 7: Client Responsibilities](#section-7-client-responsibilities)
 - [Section 8: Terms and Conditions](#section-8-terms-and-conditions)
@@ -152,9 +156,9 @@ Weekly Schedule (for a 9-hour commitment per week per person):
 |9-10   |Work   |Work   |Work          |Work |Work|             |OFF| 
 |6-7    |       |Make-up|              |Make-up  |             |OFF|
 |7-8    |       |Make-up|              |Make-up  |             |OFF|
-|9-10   |       |       |   |       | | |           | Make-up|OFF|
-|10-11  ||                  Make-up               | | | | | |  |OFF|
-|11-12|                                         | | | | | |  |OFF|
+|9-10   |       |       |   |       | | |           |Make-up    |OFF|
+|10-11  ||                                | | | | | | Make-up |OFF|
+|11-12|                                     | | | | | Make-up  |OFF|
 
 # Course Deliverables
 
@@ -172,27 +176,37 @@ Display Integration Task: Integrate and test the optional display. Task: Display
 
 Integration of Components Task: Integration of Components Integrate all components and test the system. 8 hrs. 10
 
-Calibration & Fine-Tuning Task: Calibrate temperature readings if necessary. Task: Fine-tune control logic and responsiveness. Task: Optimize temperature control logic and motion detection response. 8 hrs. 11 Peer Evaluation Housing & Safety Consideration Task: Design and create a protective housing. Task: Implement safety features (e.g., emergency shut-off). 9 hrs. 12 Final Project Final Testing & Documentation Task: Comprehensive system testing. Task: Document the Arduino code, project, wiring diagram, and instructions 10 hrs. 13 Final Project Meeting with Prof Project Presentation Task: Prepare a presentation for the project. Task: Finalize project documentation. Task: Make necessary revisions, complete documentation, and submit the final project. 10 hrs. Section 4: Team
+Calibration & Fine-Tuning Task: Calibrate temperature readings if necessary. Task: Fine-tune control logic and responsiveness. Task: Optimize temperature control logic and motion detection response. 8 hrs. 11 Peer Evaluation Housing & Safety Consideration Task: Design and create a protective housing. Task: Implement safety features (e.g., emergency shut-off). 9 hrs. 12 Final Project Final Testing & Documentation Task: Comprehensive system testing. Task: Document the Arduino code, project, wiring diagram, and instructions 10 hrs. 13 Final Project Meeting with Prof Project Presentation Task: Prepare a presentation for the project. Task: Finalize project documentation. Task: Make necessary revisions, complete documentation, and submit the final project. 10 hrs. 
 
-I am not working with a team. Section 5: Budget
+# Section 4: Team
 
-Budget Monitoring: Keep track of expenses related to hardware components.
+I am not working with a team. 
 
-Hardware BOM (Bill of Materials)
+# Section 5: Budget
 
-Item Purpose Num Price Link Arduino UNO R4 WIFI Microcontroller 4 27.50 https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us
+## Budget Monitoring
+Keep track of expenses related to hardware components.
 
-Power supply
+## Hardware BOM (Bill of Materials)
 
-USB
+|Item| Purpose| Num| Price| Link |
+|---| ---| ---| ---| --- |
+|Arduino UNO R4 WIFI |Microcontroller |4 |27.50| https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us|
 
-WIFI
+||Power supply||||
 
-8x12 LED display
+||USB||||
 
-Peripheral driver
+||WIFI||||
 
-Arduino HC-SR501 PIR motion sensor 4 7.29 for 3 https://www.amazon.com/Stemedu-HC-SR501-Infrared-Raspberry-ESP32-Cam/dp/B0897BMKR3 Spark-Fun digital Temperature sensor TMP 102 Temp sensor module 4 6.95 https://www.sparkfun.com/products/16304 Total 152.38
+||8x12 LED display||||
+
+||Peripheral driver||||
+
+|Arduino HC-SR501 |PIR motion sensor| 4| 7.29 for 3| https://www.amazon.com/Stemedu-HC-SR501-Infrared-Raspberry-ESP32-Cam/dp/B0897BMKR3 
+|Spark-Fun digital Temperature sensor| TMP 102 Temp sensor module |4| 6.95| https://www.sparkfun.com/products/16304 
+
+|Total 152.38|
 
 # Section 6: Risks
 
@@ -213,7 +227,9 @@ The Smart Climate Control System aims to redefine home temperature management, o
 
 Hardware
 
-Arduino UNO R4 WiFi boards PIR Motion Sensors (HC-SR501) Temperature Sensors (TMP102)
+Arduino UNO R4 WiFi boards 
+PIR Motion Sensors (HC-SR501) 
+Temperature Sensors (TMP102)
 
 Software
 
@@ -221,11 +237,13 @@ Arduino IDE Mobile App Development Tools Motion Sensor Integration Libraries
 
 Mentors
 
-Scott Woodford Online forums and communities for troubleshooting
+Scott Woodford 
+Online forums and communities for troubleshooting
 
 Learning Resources
 
-Online tutorials for IoT development Documentation for sensor integration
+Online tutorials for IoT development 
+Documentation for sensor integration
 
 Deployment
 
@@ -235,13 +253,15 @@ Residential settings for real-world testing
 
 Bluetooth VS WiFi VS Zigbee: Which Wireless Technology is Better https://www.mokosmart.com/bluetooth-vs-wifi-vs-zigbee-which-is-better/   
 Arduino Uno Rev4 Minima and WiFi – any good? https://community.element14.com/products/arduino/arduino-projects/b/blog/posts/arduino-uno-rev4-minima-and-wifi-any-good   
-Elegoo vs. Arduino: Is There Any Difference? https://www.makeuseof.com/elegoo-vs-arduino-is-there-any-difference   Elegoo Uno r3 vs Arduino Uno r3 https://www.reddit.com/r/arduino/comments/m4wjuq/elegoo_uno_r3_vs_arduino_uno_r3/#   Benefits of the Qwiic Connect System https://www.sparkfun.com/qwiic   
+Elegoo vs. Arduino: Is There Any Difference? https://www.makeuseof.com/elegoo-vs-arduino-is-there-any-difference   
+Elegoo Uno r3 vs Arduino Uno r3 https://www.reddit.com/r/arduino/comments/m4wjuq/elegoo_uno_r3_vs_arduino_uno_r3/#   
+Benefits of the Qwiic Connect System https://www.sparkfun.com/qwiic   
 Temperature Sensor Comparison https://learn.sparkfun.com/tutorials/temperature-sensor-comparison/all   
 Using DHT11 https://projecthub.arduino.cc/arcaegecengiz/using-dht11-12f621   
 Modern Replacements for DHT11 and DHT22 Sensors https://learn.adafruit.com/modern-replacements-for-dht11-dht22-sensors/overview   
-Temperature and Humidity Sensor https://projecthub.arduino.cc/Amarantowy/temperature-and-humidity-sensor-3a7db8   SparkFun_TMP117_Arduino_Library https://github.com/sparkfun/SparkFun_TMP117_Arduino_Library   
+Temperature and Humidity Sensor https://projecthub.arduino.cc/Amarantowy/temperature-and-humidity-sensor-3a7db8   
+SparkFun_TMP117_Arduino_Library https://github.com/sparkfun/SparkFun_TMP117_Arduino_Library   
 How PIRs Work https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/how-pirs-work   
-Interfacing PIR sensor with Arduino https://projecthub.arduino.cc/rudraksh2008/interfacing-pir-sensor-with-arduino-ccf450  
-Interfacing Arduino uno with PIR motion sensor https://projecthub.arduino.cc/electronicsfan123/interfacing-arduino-uno-with-pir-motion-sensor-593b6b 
+Interfacing PIR sensor with Arduino https://projecthub.arduino.cc/rudraksh2008/interfacing-pir-sensor-with-arduino-ccf450  Interfacing Arduino uno with PIR motion sensor https://projecthub.arduino.cc/electronicsfan123/interfacing-arduino-uno-with-pir-motion-sensor-593b6b 
 PIR sensor Interface with Arduino https://projecthub.arduino.cc/munir03125344286/pir-sensor-interface-with-arduino-c1e1ae   
 PIR Motion Sensor Hookup Guide https://learn.sparkfun.com/tutorials/pir-motion-sensor-hookup-guide
