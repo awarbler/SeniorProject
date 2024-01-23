@@ -162,21 +162,36 @@ Weekly Schedule (for a 9-hour commitment per week per person):
 
 # Course Deliverables
 
-Week Class Project Milestones Product Milestones Est. 1 Pre-Approval Pre-Approval Task: Define project scope and requirements 9 hrs. 2 Proposal Proposal
-
-9 hrs. 3
-
-Sensor Integration & Testing Task: Acquire necessary hardware components. Order Arduino UNO R4 WIFI, HC-SR501 motion sensors, TMP102 temperature sensors, and other necessary components. Task: Set up Arduino development environment. Task: Initial Hardware Setup Connect and test individual components (Arduino, sensors, relay module). 6 hrs. 4
-
-Sensor Integration & Testing Task: Connect and test the temperature sensor (DHT22). Task: Verify temperature readings and sensor accuracy. 8 hrs. 5
-
-Relay Module Integration Task: Connect and test the relay module. Task: Develop Arduino Code Write code for reading temperature, motion detection, and relay module control. 10 hrs. 6 SPED Talk Relay Module Integration Task: Implement basic control logic (heating device on/off). 10 hrs. 7 Requirements & Design Software Requirement Specification (SRS) Task: Document the software requirements. Task: Create a basic system architecture diagram. 10 hrs. 8
-
-Display Integration Task: Integrate and test the optional display. Task: Display the current temperature on the screen. 10 hrs. 9
-
-Integration of Components Task: Integration of Components Integrate all components and test the system. 8 hrs. 10
-
-Calibration & Fine-Tuning Task: Calibrate temperature readings if necessary. Task: Fine-tune control logic and responsiveness. Task: Optimize temperature control logic and motion detection response. 8 hrs. 11 Peer Evaluation Housing & Safety Consideration Task: Design and create a protective housing. Task: Implement safety features (e.g., emergency shut-off). 9 hrs. 12 Final Project Final Testing & Documentation Task: Comprehensive system testing. Task: Document the Arduino code, project, wiring diagram, and instructions 10 hrs. 13 Final Project Meeting with Prof Project Presentation Task: Prepare a presentation for the project. Task: Finalize project documentation. Task: Make necessary revisions, complete documentation, and submit the final project. 10 hrs. 
+| Week | Class                           | Project Milestones                       | Product Milestones                                                                                                                                           | Est.    |
+|------|---------------------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| 1    | Pre-Approval                    | Pre-Approval                             | Task: Define project scope and requirements                                                                                                                  | 9 hrs.  |
+| 2    | Proposal                        | Proposal                                 |                                                                                                                                                              | 9 hrs.  |
+| 3    |                                 | Sensor Integration & Testing             | Task: Acquire necessary hardware components. Order Arduino UNO R4 WIFI, HC-SR501 motion sensors, TMP102 temperature sensors, and other necessary components. | 6 hrs.  |
+| 3    |                                 |                                          | Task: Set up Arduino development environment.                                                                                                                |         |
+| 3    |                                 |                                          | Task: Initial Hardware Setup                                                                                                                                 |         |
+| 3    |                                 |                                          | Connect and test individual components (Arduino, sensors, relay module).                                                                                     |         |
+| 4    |                                 | Sensor Integration & Testing             | Task: Connect and test the temperature sensor (DHT22).                                                                                                       |         |
+| 4    |                                 |                                          | Task: Verify temperature readings and sensor accuracy.                                                                                                       | 8 hrs.  |
+| 5    |                                 | Relay Module Integration                 | Task: Connect and test the relay module.                                                                                                                     |         |
+| 5    |                                 |                                          | Task: Develop Arduino Code                                                                                                                                   |         |
+| 5    |                                 |                                          | Write code for reading temperature, motion detection, and relay module control.                                                                              | 10 hrs. |
+| 6    | SPED Talk                       | Relay Module Integration                 | Task: Implement basic control logic (heating device on/off).                                                                                                 | 10 hrs. |
+| 7    | Requirements & Design           | Software Requirement Specification (SRS) | Task: Document the software requirements.                                                                                                                    |         |
+| 7    |                                 |                                          | Task: Create a basic system architecture diagram.                                                                                                            | 10 hrs. |
+| 8    |                                 | Display Integration                      | Task: Integrate and test the optional display.                                                                                                               |         |
+| 8    |                                 |                                          | Task: Display the current temperature on the screen.                                                                                                         | 10 hrs. |
+| 9    |                                 | Integration of Components                | Task: Integration of Components                                                                                                                              |         |
+| 9    |                                 |                                          | Integrate all components and test the system.                                                                                                                | 8 hrs.  |
+| 10   |                                 | Calibration & Fine-Tuning                | Task: Calibrate temperature readings if necessary.                                                                                                           |         |
+| 10   |                                 |                                          | Task: Fine-tune control logic and responsiveness.                                                                                                            |         |
+| 10   |                                 |                                          | Task: Optimize temperature control logic and motion detection response.                                                                                      | 8 hrs.  |
+| 11   | Peer Evaluation                 | Housing & Safety Consideration           | Task: Design and create a protective housing.                                                                                                                |         |
+| 11   |                                 |                                          | Task: Implement safety features (e.g., emergency shut-off).                                                                                                  | 9 hrs.  |
+| 12   | Final Project                   | Final Testing & Documentation            | Task: Comprehensive system testing.                                                                                                                          |         |
+| 12   |                                 |                                          | Task: Document the Arduino code, project, wiring diagram, and instructions                                                                                   | 10 hrs. |
+| 13   | Final Project Meeting with Prof | Project Presentation                     | Task: Prepare a presentation for the project.                                                                                                                |         |
+| 13   |                                 |                                          | Task: Finalize project documentation.                                                                                                                        |         |
+| 13   |                                 |                                          | Task: Make necessary revisions, complete documentation, and submit the final project.                                                                        | 10 hrs. |
 
 # Section 4: Team
 
@@ -191,22 +206,17 @@ Keep track of expenses related to hardware components.
 
 |Item| Purpose| Num| Price| Link |
 |---| ---| ---| ---| --- |
-|Arduino UNO R4 WIFI    |Microcontroller    |4 |27.50| https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us |
+|Arduino UNO R4 WIFI    |Microcontroller    |4  |27.50      | https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us |
+|                       |Power supply       |   |           |    |
+|                       |USB                |   |           |    |
+|                       |WIFI               |   |           |    |
+|                       |8x12 LED display   |   |           |    |
+|                       |Peripheral driver  |   |           |    |
 
-|                       |Power supply       |   |     |    |
-
-|                       |USB                |   |     |    |
-
-|                       |WIFI               |   |     |    |
-
-|                       |8x12 LED display   |   |     |     |
-
-|                       |Peripheral driver  |   |     |     |
-
-|Arduino HC-SR501       |PIR motion sensor  | 4| 7.29 for 3| https://www.amazon.com/Stemedu-HC-SR501-Infrared-Raspberry-ESP32-Cam/dp/B0897BMKR3 |
+|Arduino HC-SR501       |PIR motion sensor  |4  |7.29 for 3| https://www.amazon.com/Stemedu-HC-SR501-Infrared-Raspberry-ESP32-Cam/dp/B0897BMKR3 |
 |Spark-Fun digital Temperature sensor| TMP 102 Temp sensor module |4| 6.95| https://www.sparkfun.com/products/16304 |
 
-|Total 152.38|
+Total 152.38
 
 # Section 6: Risks
 
