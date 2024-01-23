@@ -1,6 +1,7 @@
- Table of Contents Section 1: Introduction 3 Background/Prior Knowledge 3 Prior Education 3 Initial Research 3 Similar Topics: 3 Objectives: Description 3 Objectives 3 Why? 3 What? 3 Who? 4 Where? 4 How? 4 Motivation 4 Significance 4 Interestingness 4 New Computer Science Concepts 4 Section 2: Scope of Work 5 Features (MVP) 5 Additional Features (A-Grade) 5 Technical Approach 6 Speed Bumps 6 Ratios 6 Learning 6 Section 3: Timeline 6 Plan Tasks and Schedule 6 Weekly Schedule 6 Course Deliverables 7 Section 4: Team 8 Section 5: Budget 8 Hardware BOM (Bill of Materials) 8 Section 6: Risks 8 Section 7: Client Responsibilities 8 Section 8: Terms and Conditions 8 Section 10: Conclusion 8 The Smart Climate Control System aims to redefine home temperature management, offering an energy-efficient and user-friendly solution. The project is significant for its positive impact on users and aligns with our passion for leveraging technology to address real-world challenges. 9 Section A: Resources 9 Hardware 9 Software 9 Mentors 9 Learning Resources 9 Deployment 9 Works Cited 10
+# Table of Contents Section 
+1: Introduction 3 Background/Prior Knowledge 3 Prior Education 3 Initial Research 3 Similar Topics: 3 Objectives: Description 3 Objectives 3 Why? 3 What? 3 Who? 4 Where? 4 How? 4 Motivation 4 Significance 4 Interestingness 4 New Computer Science Concepts 4 Section 2: Scope of Work 5 Features (MVP) 5 Additional Features (A-Grade) 5 Technical Approach 6 Speed Bumps 6 Ratios 6 Learning 6 Section 3: Timeline 6 Plan Tasks and Schedule 6 Weekly Schedule 6 Course Deliverables 7 Section 4: Team 8 Section 5: Budget 8 Hardware BOM (Bill of Materials) 8 Section 6: Risks 8 Section 7: Client Responsibilities 8 Section 8: Terms and Conditions 8 Section 10: Conclusion 8 The Smart Climate Control System aims to redefine home temperature management, offering an energy-efficient and user-friendly solution. The project is significant for its positive impact on users and aligns with our passion for leveraging technology to address real-world challenges. 9 Section A: Resources 9 Hardware 9 Software 9 Mentors 9 Learning Resources 9 Deployment 9 Works Cited 10
 
- Section 1: Introduction
+# Section 1: Introduction
 
 Background/Prior Knowledge
 
@@ -58,7 +59,7 @@ Learning opportunities include:
 
 Advanced IoT concepts. Machine learning for adaptive systems. Integrating third-party APIs for weather data.
 
- Section 2: Scope of Work
+# Section 2: Scope of Work
 
 Features (MVP)
 
@@ -136,7 +137,7 @@ Make-up OFF 11-12
 
 OFF
 
- Course Deliverables
+# Course Deliverables
 
 Week Class Project Milestones Product Milestones Est. 1 Pre-Approval Pre-Approval Task: Define project scope and requirements 9 hrs. 2 Proposal Proposal
 
@@ -174,17 +175,22 @@ Peripheral driver
 
 Arduino HC-SR501 PIR motion sensor 4 7.29 for 3 https://www.amazon.com/Stemedu-HC-SR501-Infrared-Raspberry-ESP32-Cam/dp/B0897BMKR3 Spark-Fun digital Temperature sensor TMP 102 Temp sensor module 4 6.95 https://www.sparkfun.com/products/16304 Total 152.38
 
-Section 6: Risks
+# Section 6: Risks
 
-Hardware Compatibility: Ensuring seamless integration of sensors. Learning Curve: Addressing challenges in adopting new technologies. Timeline Delays: Unforeseen obstacles impacting project milestones. Section 7: Client Responsibilities
+Hardware Compatibility: Ensuring seamless integration of sensors. Learning Curve: Addressing challenges in adopting new technologies. Timeline Delays: Unforeseen obstacles impacting project milestones. 
 
-Regular status updates and participation in prototype testing. Section 8: Terms and Conditions
+# Section 7: Client Responsibilities
 
-N/A  Section 10: Conclusion
+Regular status updates and participation in prototype testing. 
+
+# Section 8: Terms and Conditions
+
+N/A 
+# Section 10: Conclusion
 
 The Smart Climate Control System aims to redefine home temperature management, offering an energy-efficient and user-friendly solution. The project is significant for its positive impact on users and aligns with our passion for leveraging technology to address real-world challenges.
 
-Section A: Resources
+# Section A: Resources
 
 Hardware
 
@@ -206,6 +212,17 @@ Deployment
 
 Residential settings for real-world testing
 
- Works Cited
+# Works Cited
 
-Bluetooth VS WiFi VS Zigbee: Which Wireless Technology is Better https://www.mokosmart.com/bluetooth-vs-wifi-vs-zigbee-which-is-better/   Arduino Uno Rev4 Minima and WiFi – any good? https://community.element14.com/products/arduino/arduino-projects/b/blog/posts/arduino-uno-rev4-minima-and-wifi-any-good   Elegoo vs. Arduino: Is There Any Difference? https://www.makeuseof.com/elegoo-vs-arduino-is-there-any-difference   Elegoo Uno r3 vs Arduino Uno r3 https://www.reddit.com/r/arduino/comments/m4wjuq/elegoo_uno_r3_vs_arduino_uno_r3/#   Benefits of the Qwiic Connect System https://www.sparkfun.com/qwiic   Temperature Sensor Comparison https://learn.sparkfun.com/tutorials/temperature-sensor-comparison/all   Using DHT11 https://projecthub.arduino.cc/arcaegecengiz/using-dht11-12f621   Modern Replacements for DHT11 and DHT22 Sensors https://learn.adafruit.com/modern-replacements-for-dht11-dht22-sensors/overview   Temperature and Humidity Sensor https://projecthub.arduino.cc/Amarantowy/temperature-and-humidity-sensor-3a7db8   SparkFun_TMP117_Arduino_Library https://github.com/sparkfun/SparkFun_TMP117_Arduino_Library   How PIRs Work https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/how-pirs-work   Interfacing PIR sensor with Arduino https://projecthub.arduino.cc/rudraksh2008/interfacing-pir-sensor-with-arduino-ccf450   Interfacing Arduino uno with PIR motion sensor https://projecthub.arduino.cc/electronicsfan123/interfacing-arduino-uno-with-pir-motion-sensor-593b6b PIR sensor Interface with Arduino https://projecthub.arduino.cc/munir03125344286/pir-sensor-interface-with-arduino-c1e1ae   PIR Motion Sensor Hookup Guide https://learn.sparkfun.com/tutorials/pir-motion-sensor-hookup-guide
+Bluetooth VS WiFi VS Zigbee: Which Wireless Technology is Better https://www.mokosmart.com/bluetooth-vs-wifi-vs-zigbee-which-is-better/   
+Arduino Uno Rev4 Minima and WiFi – any good? https://community.element14.com/products/arduino/arduino-projects/b/blog/posts/arduino-uno-rev4-minima-and-wifi-any-good   
+Elegoo vs. Arduino: Is There Any Difference? https://www.makeuseof.com/elegoo-vs-arduino-is-there-any-difference   Elegoo Uno r3 vs Arduino Uno r3 https://www.reddit.com/r/arduino/comments/m4wjuq/elegoo_uno_r3_vs_arduino_uno_r3/#   Benefits of the Qwiic Connect System https://www.sparkfun.com/qwiic   
+Temperature Sensor Comparison https://learn.sparkfun.com/tutorials/temperature-sensor-comparison/all   
+Using DHT11 https://projecthub.arduino.cc/arcaegecengiz/using-dht11-12f621   
+Modern Replacements for DHT11 and DHT22 Sensors https://learn.adafruit.com/modern-replacements-for-dht11-dht22-sensors/overview   
+Temperature and Humidity Sensor https://projecthub.arduino.cc/Amarantowy/temperature-and-humidity-sensor-3a7db8   SparkFun_TMP117_Arduino_Library https://github.com/sparkfun/SparkFun_TMP117_Arduino_Library   
+How PIRs Work https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/how-pirs-work   
+Interfacing PIR sensor with Arduino https://projecthub.arduino.cc/rudraksh2008/interfacing-pir-sensor-with-arduino-ccf450  
+Interfacing Arduino uno with PIR motion sensor https://projecthub.arduino.cc/electronicsfan123/interfacing-arduino-uno-with-pir-motion-sensor-593b6b 
+PIR sensor Interface with Arduino https://projecthub.arduino.cc/munir03125344286/pir-sensor-interface-with-arduino-c1e1ae   
+PIR Motion Sensor Hookup Guide https://learn.sparkfun.com/tutorials/pir-motion-sensor-hookup-guide
