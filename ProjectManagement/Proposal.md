@@ -1,10 +1,5 @@
 # Table of Contents Section 
- * Section 1: Introduction
-    * Background/Prior Knowledge 
-      * Prior Education 
-      * Initial Research 
-      * Similar Topics
-    * Objectives: Description - [Table of Contents Section](#table-of-contents-section)
+[Table of Contents Section](#table-of-contents-section)
 - [Table of Contents Section](#table-of-contents-section)
 - [Section 1: Introduction](#section-1-introduction)
   - [Background/Prior Knowledge](#backgroundprior-knowledge)
@@ -151,6 +146,7 @@ Individual: 126 hours/person
 Weekly Schedule (for a 9-hour commitment per week per person):
 
 |Time|Monday| Tuesday| Wednesday| Thursday| Friday |Saturday| Sunday |
+|---|---    |---    |----       |---        |---    |---    |---|
 |7-8    |Work   |Work   |Work          |Work |Work|             |OFF|
 |8-9    |Work   |Work   |Work          |Work |Work|             |OFF|
 |9-10   |Work   |Work   |Work          |Work |Work|             |OFF| 
