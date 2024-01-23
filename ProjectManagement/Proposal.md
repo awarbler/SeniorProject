@@ -191,20 +191,20 @@ Keep track of expenses related to hardware components.
 
 |Item| Purpose| Num| Price| Link |
 |---| ---| ---| ---| --- |
-|Arduino UNO R4 WIFI |Microcontroller |4 |27.50| https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us|
+|Arduino UNO R4 WIFI    |Microcontroller    |4 |27.50| https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us|
 
-||Power supply||||
+|                       |Power supply       |   |     |    |
 
-||USB||||
+|                       |USB                |   |     |    |
 
-||WIFI||||
+|                       |WIFI               |   |     |    |
 
-||8x12 LED display||||
+|                       |8x12 LED display   |   |     |     |
 
-||Peripheral driver||||
+|                       |Peripheral driver  |   |     |     |
 
-|Arduino HC-SR501 |PIR motion sensor| 4| 7.29 for 3| https://www.amazon.com/Stemedu-HC-SR501-Infrared-Raspberry-ESP32-Cam/dp/B0897BMKR3 
-|Spark-Fun digital Temperature sensor| TMP 102 Temp sensor module |4| 6.95| https://www.sparkfun.com/products/16304 
+|Arduino HC-SR501       |PIR motion sensor  | 4| 7.29 for 3| https://www.amazon.com/Stemedu-HC-SR501-Infrared-Raspberry-ESP32-Cam/dp/B0897BMKR3 |
+|Spark-Fun digital Temperature sensor| TMP 102 Temp sensor module |4| 6.95| https://www.sparkfun.com/products/16304 |
 
 |Total 152.38|
 
