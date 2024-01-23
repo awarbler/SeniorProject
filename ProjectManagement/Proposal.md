@@ -1,59 +1,102 @@
 # Table of Contents Section 
-1: Introduction 3 Background/Prior Knowledge 3 Prior Education 3 Initial Research 3 Similar Topics: 3 Objectives: Description 3 Objectives 3 Why? 3 What? 3 Who? 4 Where? 4 How? 4 Motivation 4 Significance 4 Interestingness 4 New Computer Science Concepts 4 Section 2: Scope of Work 5 Features (MVP) 5 Additional Features (A-Grade) 5 Technical Approach 6 Speed Bumps 6 Ratios 6 Learning 6 Section 3: Timeline 6 Plan Tasks and Schedule 6 Weekly Schedule 6 Course Deliverables 7 Section 4: Team 8 Section 5: Budget 8 Hardware BOM (Bill of Materials) 8 Section 6: Risks 8 Section 7: Client Responsibilities 8 Section 8: Terms and Conditions 8 Section 10: Conclusion 8 The Smart Climate Control System aims to redefine home temperature management, offering an energy-efficient and user-friendly solution. The project is significant for its positive impact on users and aligns with our passion for leveraging technology to address real-world challenges. 9 Section A: Resources 9 Hardware 9 Software 9 Mentors 9 Learning Resources 9 Deployment 9 Works Cited 10
+ * Section 1: Introduction
+    * Background/Prior Knowledge 
+      * Prior Education 
+      * Initial Research 
+      * Similar Topics
+    * Objectives: Description 
+      * Objectives 
+        * Why? 
+        * What? 
+        * Who? 
+        * Where? 
+        * How?
+    * Motivation
+      * Significance
+      * Interestingness
+      * New Computer Science Concepts
+  
+  * Section 2: Scope of Work
+    * Features (MVP) 
+    * Additional Features (A-Grade)
+    * Technical Approach
+      * Speed Bumps
+      * Ratios
+      * Learning 
+  
+  * Section 3: Timeline
+    * Plan Tasks and Schedule
+      * Weekly Schedule
+      * Course Deliverables 
+  
+  * Section 4: Team 
+  * Section 5: Budget
+    * Hardware BOM (Bill of Materials)
+  * Section 6: Risks
+  * Section 7: Client Responsibilities
+  * Section 8: Terms and Conditions
+  * Section 9: Conclusion 
+  *  Section A: Resources
+     *  Hardware
+     *  Software
+     *  Mentors
+     *  Learning Resources
+     *  Deployment
+     *  Works Cited 
 
 # Section 1: Introduction
 
-Background/Prior Knowledge
+## Background/Prior Knowledge
 
-Prior Education
+### Prior Education
 
 Our foundational software engineering, ECEN 106, and IoT systems courses have sparked an interest in creating innovative solutions for everyday challenges.
 
-Initial Research
+### Initial Research
 
 Initial research involved exploring existing solutions, including relevant sources:
 
 IoT Institute: "Efficient Home Climate Control Systems" (Research Paper, 2022) Smart Home Solutions Journal: "Advancements in Temperature Management" (Journal Article, 2021) IoT World Forum: "Case Studies on Smart Thermostat Implementations" (Conference Proceedings, 2020) Explored temperature control and motion detection projects.
 
-Similar Topics:
+### Similar Topics:
 
 A topic web revealed connections to energy efficiency, user preferences, and IoT security.
 
-Objectives: Description
+## Objectives: Description
 
 Objectives Develop a home temperature controller with motion detection. Address varying temperatures in different rooms. Utilize knowledge from ECEN 106 and Arduino programming.
 
-Why?
+### Why?
 
 The Smart Climate Control System addresses the need for an energy-efficient and user-friendly home temperature management solution. We aim to provide a compelling narrative that resonates with users.
 
-What?
+### What?
 
 The system offers an intelligent thermostat with features such as adaptive temperature adjustment, motion sensing, and remote access. It improves upon existing solutions with enhanced energy efficiency and user experience. Who?
 
 Our primary audience includes homeowners seeking an advanced climate control solution. Profiles range from tech-savvy individuals to environmentally conscious users.
 
-Where?
+### Where?
 
 The platform development will occur on Windows using IDEs like Arduino. The system will be deployed in residential settings.
 
-How?
+### How?
 
 Workflow scenarios include temperature adjustment, motion-based control, and remote access. SMART goals will guide project completion.
 
-Motivation
+## Motivation
 
 The project's significance lies in offering a sustainable and efficient solution for home climate control. This aligns with our passion for leveraging technology to address real-world challenges. The exciting aspect is the technical implementation and the positive impact on users' lives.
 
-Significance
+## Significance
 
 The Smart Climate Control System contributes to energy conservation, reducing user utility costs. This project adds a valuable dimension to our resumes and showcases our ability to create impactful software.
 
-Interestingness
+## Interestingness
 
 Our excitement for the project stems from the potential to improve daily living for users. Overcoming challenges is part of the journey, and our commitment ensures project ownership.
 
-New Computer Science Concepts
+## New Computer Science Concepts
 
 Learning opportunities include:
 
@@ -61,7 +104,7 @@ Advanced IoT concepts. Machine learning for adaptive systems. Integrating third-
 
 # Section 2: Scope of Work
 
-Features (MVP)
+## Features (MVP)
 
 Adaptive Temperature Adjustment Dynamically adjusts temperature based on user preferences and occupancy.
 
@@ -75,7 +118,7 @@ User Preference Profiles Allows users to set personalized temperature preference
 
 Estimated Hours for MVP: 126 hours
 
-Additional Features (A-Grade)
+## Additional Features (A-Grade)
 
 Weather-Based Adaptation Integrates weather data to optimize temperature settings.
 
@@ -87,21 +130,23 @@ Occupancy History Tracking Records and displays historical room occupancy data.
 
 Estimated Hours for A-Grade: 80 hours
 
- Technical Approach
+## Technical Approach
 
-Speed Bumps
+### Speed Bumps
 
 Scaffolding for IoT development Allocation of time for Research & Development (R&D) The learning curve for motion sensor integration
 
-Ratios
+### Ratios
 
 10% R&D/CONOPS 20% Requirements Analysis 30% Implementation 40% Test and Integration
 
-Learning
+### Learning
 
-Integration of motion sensors, energy-efficient algorithms, and IoT protocols. Section 3: Timeline
+Integration of motion sensors, energy-efficient algorithms, and IoT protocols. 
 
-Plan Tasks and Schedule
+# Section 3: Timeline
+
+## Plan Tasks and Schedule
 
 The project is 14 weeks, with a Software Requirements Specification (SRS) due in week 7.
 
