@@ -4,45 +4,39 @@
       * Prior Education 
       * Initial Research 
       * Similar Topics
-    * Objectives: Description 
-      * Objectives 
-        * Why? 
-        * What? 
-        * Who? 
-        * Where? 
-        * How?
-    * Motivation
-      * Significance
-      * Interestingness
-      * New Computer Science Concepts
-  
-  * Section 2: Scope of Work
-    * Features (MVP) 
-    * Additional Features (A-Grade)
-    * Technical Approach
-      * Speed Bumps
-      * Ratios
-      * Learning 
-  
-  * Section 3: Timeline
-    * Plan Tasks and Schedule
-      * Weekly Schedule
-      * Course Deliverables 
-  
-  * Section 4: Team 
-  * Section 5: Budget
-    * Hardware BOM (Bill of Materials)
-  * Section 6: Risks
-  * Section 7: Client Responsibilities
-  * Section 8: Terms and Conditions
-  * Section 9: Conclusion 
-  *  Section A: Resources
-     *  Hardware
-     *  Software
-     *  Mentors
-     *  Learning Resources
-     *  Deployment
-     *  Works Cited 
+    * Objectives: Description - [Table of Contents Section](#table-of-contents-section)
+- [Table of Contents Section](#table-of-contents-section)
+- [Section 1: Introduction](#section-1-introduction)
+  - [Background/Prior Knowledge](#backgroundprior-knowledge)
+    - [Prior Education](#prior-education)
+    - [Initial Research](#initial-research)
+    - [Similar Topics:](#similar-topics)
+  - [Objectives: Description](#objectives-description)
+    - [Why?](#why)
+    - [What?](#what)
+    - [Where?](#where)
+    - [How?](#how)
+  - [Motivation](#motivation)
+  - [Significance](#significance)
+  - [Interestingness](#interestingness)
+  - [New Computer Science Concepts](#new-computer-science-concepts)
+- [Section 2: Scope of Work](#section-2-scope-of-work)
+  - [Features (MVP)](#features-mvp)
+  - [Additional Features (A-Grade)](#additional-features-a-grade)
+  - [Technical Approach](#technical-approach)
+    - [Speed Bumps](#speed-bumps)
+    - [Ratios](#ratios)
+    - [Learning](#learning)
+- [Section 3: Timeline](#section-3-timeline)
+  - [Plan Tasks and Schedule](#plan-tasks-and-schedule)
+- [Course Deliverables](#course-deliverables)
+- [Section 6: Risks](#section-6-risks)
+- [Section 7: Client Responsibilities](#section-7-client-responsibilities)
+- [Section 8: Terms and Conditions](#section-8-terms-and-conditions)
+- [Section 10: Conclusion](#section-10-conclusion)
+- [Section A: Resources](#section-a-resources)
+- [Works Cited](#works-cited)
+
 
 # Section 1: Introduction
 
@@ -156,31 +150,15 @@ Individual: 126 hours/person
 
 Weekly Schedule (for a 9-hour commitment per week per person):
 
-Time Monday Tuesday Wednesday Thursday Friday Saturday Sunday 7-8 Work
-
-Work Work Work Work OFF 8-9 Work
-
-Work Work Work Work OFF 9-10 Work
-
-Work Work Work Work OFF 6-7
-
-Make-up
-
-Make-up
-
-OFF 7-8
-
-Make-up
-
-Make-up
-
-OFF 9-10
-
-Make-up OFF 10-11
-
-Make-up OFF 11-12
-
-OFF
+|Time|Monday| Tuesday| Wednesday| Thursday| Friday |Saturday| Sunday |
+|7-8    |Work   |Work   |Work          |Work |Work|             |OFF|
+|8-9    |Work   |Work   |Work          |Work |Work|             |OFF|
+|9-10   |Work   |Work   |Work          |Work |Work|             |OFF| 
+|6-7    |       |Make-up|              |Make-up  |             |OFF|
+|7-8    |       |Make-up|              |Make-up  |             |OFF|
+|9-10   |       |       |   |       | | |           | Make-up|OFF|
+|10-11  ||                  Make-up               | | | | | |  |OFF|
+|11-12|                                         | | | | | |  |OFF|
 
 # Course Deliverables
 
