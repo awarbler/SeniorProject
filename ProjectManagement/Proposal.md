@@ -191,7 +191,7 @@ Keep track of expenses related to hardware components.
 
 |Item| Purpose| Num| Price| Link |
 |---| ---| ---| ---| --- |
-|Arduino UNO R4 WIFI    |Microcontroller    |4 |27.50| https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us|
+|Arduino UNO R4 WIFI    |Microcontroller    |4 |27.50| https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us |
 
 |                       |Power supply       |   |     |    |
 
