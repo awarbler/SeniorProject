@@ -1,0 +1,31 @@
+Name: ANITA WOODFORD
+Project Title: Home Temperature Controller
+
+Team Members:Me, Myself, and I
+
+Overall Status: Starting
+
+Number of hours worked since last update: 15
+Number of hours worked on the project thus far:0
+Total number of hours anticipated for completion:250
+
+Accomplishments: Gathered Information for the proposals
+
+
+Challenges: There are so many different ways to do this project. 
+I haven't narrowed down if I want to actually do this in my whole house or use a doll house as an example 
+
+
+Plans / Goals for next week:
+Install Arduino on my computer 
+Purchase items for project 
+Test run Arduino software to make sure it works 
+
+
+
+Accountability plan: (What is your plan to keep yourself honest and follow through with the goals that you have outlined?)
+Put it on my schedule 
+
+
+Other comments:
+I haven't narrowed down if I want to actually do this in my whole house or use a doll house as an example 

@@ -1,0 +1,69 @@
+Name: ANITA WOODFORD
+Project Title: Home Temperature Controller
+
+Team Members:Me, Myself, and I
+
+Overall Status: In Progress
+
+Number of hours worked since last update: 20
+Number of hours worked on the project thus far:10
+Total number of hours anticipated for completion:240
+
+GitHub Repository: https://github.com/awarbler/SeniorProject
+Project Repository: https://github.com/users/awarbler/projects/6 
+
+
+Accomplishments: 
+Set up my timeline in project on a GitHub repository 
+Worked on Week Three items 
+
+Task: Define project scope and requirements#3
+Establish Supply List#56
+Task: Set up GITHUB#9
+Task: Set up Visual Studio Code#8
+Task: Set up Arduino development environment.#11
+Task: Connect and test the temperature sensor DHT22#14
+Download and install the Arduino IDE from the official Arduino website.#50
+Identify any additional components required for your specific setup, such as jumper wires, a breadboard, an LCD display, and a relay module for controlling heating/cooling systems.#55
+Add a todo list to GitHub #62 awarbler Done
+Organize Files in GitHub#65
+Move DHT code to other codes #66 awarbler Done
+Create List for software - Ongoing#67
+create folder for website references used on project#68
+
+
+
+In Progress 
+1 Task: Initial Hardware Setup #10 For all items of hardware awarbler In Progress
+2 Task: Acquire necessary hardware components. … #7 awarbler In Progress
+3 Sensor Integration & Testing #6 awarbler In Progress
+4 Connect and test individual components (Ardui… #12 awarbler In Progress
+5 W04 Sensor Testing #13 awarbler In Progress
+6 Task: Verify temperature readings and sensor a… #15 awarbler In Progress
+7 W03AddToDo #61 awarbler In Progress
+8 Test Temperature Sensors #58 awarbler In Progress
+9 Add Notes to GitHub for Temp Sensor #63
+
+
+Carry Over to next week 
+W03 & W04 1 Task: Document the Arduino code, project, wiri… #48 awarbler Todo2 Purchase an Arduino UNO R4 WIFI or a similar … #52 awarbler Todo3 Order three HC-SR501 PIR motion sensors for … #53 awarbler Todo4 Purchase three TMP102 temperature sensors f… #54 awarbler Todo5 Test Motion Sensors #57 awarbler Todo6 Test Other Components #59 awarbler Todo7 Troubleshoot if Necessary #60 awarbler Todo8 Add notes to GitHub for motion detector #64 awarbler Todo
+
+
+Challenges: I have never done this so I am not sure how to organize my files for GitHub. I am learning as I go. My plan is to attend the class meeting on Tuesday to ask question on organization. 
+
+
+Plans / Goals for next week: 
+Carry over from W03 
+In progress items from W03 
+
+
+
+
+Accountability plan: (What is your plan to keep yourself honest and follow through with the goals that you have outlined?)
+Put it on my schedule
+Get up earlier. 
+Discuss with executive functioning coach about me getting distracted with reading all websites I have come across
+
+
+Other comments:
+This is really hard stuff. 

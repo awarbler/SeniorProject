@@ -1,0 +1,1 @@
+Motion Sensor Worked led 13 light came on everytime it detected motion.
