@@ -5,7 +5,10 @@ As of January 24, 2024
 1\. **Arduino Uno/Nano:**
 
    - Use one Arduino Uno or Nano for each room.
+ - 
+1a\. ** Arduino Uno/Nano WIFI **
 
+   - 2x
 2\. **Jumper Wires:**
 
    - Use these wires for connecting components on your breadboard.
