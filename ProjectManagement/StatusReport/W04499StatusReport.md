@@ -83,17 +83,29 @@ Task : Connect to Nest
 
 ## W05 Assignments
 Task: Connect and test the relay module	90
+
 Testing and Debugging	85
+
 Nest app Choose Arduino WiFi Module80
+
 Install Necessary Libraries81
+
 Code Implementation	82
+
 Control Nest Thermostat	84
+
 Authorization Flow	83
+
 Create a Nest Project: 	79
+
 Task: Write code for reading temperature, motion detection, and relay module control.#19
+
 Really Module Integration	22
+
 Task: Implement basic control logic (heating device on/off).	3
+
 Program two UNO Wifis to turn on	89
+
 
 ### Challenges: 
 
