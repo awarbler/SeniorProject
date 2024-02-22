@@ -10,7 +10,7 @@ config.h
 secrets.h
 arduino_secrets.h
 WIFIS3.h
-
+.secretNest.text
 
 *.rsuser
 *.suo
